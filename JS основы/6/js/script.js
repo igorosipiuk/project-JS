@@ -1,4 +1,5 @@
 "use strict";
+// Циклы
 
 let num = 50;
 
