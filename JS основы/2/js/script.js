@@ -20,7 +20,7 @@ console.log(typeof (ansvers)); */
 // Интерполяция
 
 const category = 'toys';
-console.log(`https://som.com/${category}/5`);
+console.log(`https://som.com/${category}/3`);
 
 const user = 'Igor';
 alert(`Привет, ${user}`);
