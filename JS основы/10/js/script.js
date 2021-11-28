@@ -1,4 +1,5 @@
 "use strict";
+// Практика часть 3
 
 let numberOfFilms;
 
