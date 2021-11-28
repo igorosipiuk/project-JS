@@ -1,4 +1,5 @@
 "use strict";
+// Методы
 
 // const str = 'text';
 // const arr = [1, 2, 3];
