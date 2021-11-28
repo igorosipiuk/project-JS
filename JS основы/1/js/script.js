@@ -18,8 +18,8 @@ console.log(obj); */
  
 // ЧИСЛА
 
-let number = 5;
-console.log(5 / 0);
+let number = 6;
+console.log(6 / 0);
 console.log('string' * 9);
 
 // СТРОКА
