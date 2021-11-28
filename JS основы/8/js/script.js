@@ -1,4 +1,5 @@
 "use strict";
+// Функции
 
 let num = 20;
 
