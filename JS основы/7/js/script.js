@@ -1,4 +1,5 @@
 "use strict";
+// Практика ч 2
 
 const numberOfFilms = +prompt("Сколько фильмов вы уже посмотрели?", "");
 
