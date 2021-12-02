@@ -1,7 +1,7 @@
 "use strict";
 // примеры задач
-/* let a = 5; 
-alert(a++); // 5 */
+ let a = 5; 
+alert(a++); // 5
 
 /* let a = [] + false - null + true;
 console.log(a); // NaN */
@@ -16,8 +16,9 @@ console.log(a); // 12 */
 /* alert("1"[0]); // 1 */
 
 
-// консоль разработчика
-/* function hello() {
+// консоль разработчика\
+
+function hello() {
 	console.log('Hello');
 }
 hello();
@@ -33,4 +34,4 @@ const arr = [1, 14, 4, 30, 54],
 function compareNum(a, b) {
 	return (a - b);
 }
-console.log(sorted); */
+console.log(sorted);
